@@ -1,1 +1,4 @@
-# xcodeslideruiswitchpickerview
+# Ejemplo 
+slider .  
+uiswitch    
+pickerview .  
