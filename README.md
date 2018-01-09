@@ -1,4 +1,4 @@
 # Ejemplo 
-slider .  
-uiswitch    
-pickerview .  
+## slider  
+## uiswitch    
+## pickerview 
