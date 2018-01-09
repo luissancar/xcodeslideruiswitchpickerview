@@ -17,7 +17,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
 
     @IBOutlet weak var listaPickerView: UIPickerView!
     
-    var  pickerData = ["Murcia", "Andalucia", "Galicia", "Tarbania", "Castilla"]
+    var  pickerData = ["Murcia", "Andalucia", "Galicia", "Tabarnia", "Castilla"]
     
     
     
